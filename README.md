@@ -21,7 +21,7 @@ A fast and responsive weather app built with React and Tailwind CSS, powered by 
 
 ## 🌐 Live Demo
 
-[Click here to view the app](#)
+[Click here to view the app](https://playful-mooncake-361644.netlify.app/)
 
 ## ⚙️ Getting Started
 
